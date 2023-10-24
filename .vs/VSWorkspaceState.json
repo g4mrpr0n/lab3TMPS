@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\abstractions",
+    "\\abstractions\\inventory",
+    "\\abstractions\\payments",
+    "\\abstractions\\views",
+    "\\genres",
+    "\\inventory",
+    "\\shop",
+    "\\views"
+  ],
+  "SelectedNode": "\\inventory\\BookDecorator.h",
+  "PreviewInSolutionExplorer": false
+}

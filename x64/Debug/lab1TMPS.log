@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\georg\source\repos\lab3TMPS\ShoppingCart.h(41,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\georg\source\repos\lab3TMPS\ShoppingCart.h(44,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\georg\source\repos\lab3TMPS\PaymentLibrary.h(9): warning C4715: 'PaymentLibrary::calculatePaymentRate': not all control paths return a value
+  lab1TMPS.vcxproj -> C:\Users\georg\source\repos\lab3TMPS\x64\Debug\lab1TMPS.exe

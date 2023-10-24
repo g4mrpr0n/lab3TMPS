@@ -1,0 +1,2 @@
+C:\Users\georg\source\repos\lab1TMPS\x64\Debug\lab1TMPS.exe
+C:\Users\georg\source\repos\lab3TMPS\x64\Debug\lab1TMPS.exe
